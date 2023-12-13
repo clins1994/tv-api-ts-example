@@ -25,6 +25,7 @@ app.post('/signin', async (req: Request, res: Response) => {
       res.send(`Got a session for user (id: ${session.userId})`);
     }
   } catch (e) {
+    console.error(e);
     res.status(400).send(e);
   }
 });

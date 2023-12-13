@@ -44,7 +44,7 @@ export const tradingViewSignIn = async ({
 
   console.log('[tradingViewSignIn] Checking cookies from response ...');
 
-  const rawCookies = response.headers.get('set-cookie');
+  const rawCookies = response?.headers?.get('set-cookie');
 
   if (!rawCookies) throw new Error('NO_COOKIES');
 
