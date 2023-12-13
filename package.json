@@ -19,6 +19,7 @@
     "@types/node": "^20.10.4",
     "concurrently": "^8.2.2",
     "nodemon": "^3.0.2",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "zod": "^3.22.4"
   }
 }
