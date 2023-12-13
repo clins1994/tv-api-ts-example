@@ -45,3 +45,11 @@ I'm using Thunder Client VSCode extension
 
 - https://github.com/Mathieu2301/TradingView-API/tree/main
 - https://blog.logrocket.com/how-to-set-up-node-typescript-express/
+
+# About me / reaching out
+
+If you liked this example and would like me to make others similar to it feel free to reach out
+
+If you sponsor me, your request will get my attention quicker as I check the sponsor dashboard from time to time
+
+On telegram you can find me with the same tag as GitHub: https://t.me/clins777
